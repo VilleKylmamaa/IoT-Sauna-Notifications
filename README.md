@@ -18,8 +18,11 @@ application in which the user can set their desired temperature at which they wi
 the sauna.
 
 
-
 ## Design and Architecture
+
+
+#### _Figure 1: Overall architecture_
+![Overall architecture](https://raw.githubusercontent.com/VilleKylmamaa/IoT-Sauna-Notifications/main/readme_images/overall-architecture.jpg)
 
 There are two main issues about having electronics in the sauna environment – heat and
 humidity. The temperature sensor needs to be placed high, close to the ceiling, where the
@@ -56,9 +59,6 @@ notification temperature.
 Depicted below is the overall architecture and the chosen devices and technologies (figure
 1). Further justification of the choices in the implementation section.
 
-
-#### _Figure 1: Overall architecture_
-![Overall architecture](https://raw.githubusercontent.com/VilleKylmamaa/IoT-Sauna-Notifications/main/readme_images/overall-architecture.jpg)
 
 
 ## Implementation
