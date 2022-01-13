@@ -1,6 +1,6 @@
 # IoT-Sauna-Notifications
 
-## Motivation
+## Introduction
 
 I have a sauna and I use it often. However, I have a problem with overheating it as my focus
 gets very involved in doing something and I forget when I turned the sauna on or just forget
@@ -17,6 +17,12 @@ of transmitting the temperature data in the sauna. On the receiving end there is
 application in which the user can set their desired temperature at which they wish to enter
 the sauna.
 
+**Here is a link to a short YouTube video showcasing the project's functionality:**
+
+https://www.youtube.com/watch?v=S2CG0rvZlv0
+
+
+<br/>
 
 ## Design and Architecture
 
@@ -57,6 +63,8 @@ notification. There is also a graph which visualizes the temperature data and th
 notification temperature.
 
 
+
+<br/>
 
 ## Implementation
 
@@ -107,10 +115,9 @@ sauna. I connected them with some long wiring and powered the ESP32 with a phone
 charger to avoid having to use batteries. This was sufficient for all the testing the project
 required.
 
-Here is a link to a short video showcasing the functionality:
-https://www.youtube.com/watch?v=S2CG0rvZlv0
 
 
+<br/>
 
 ## Evaluation of the Work
 
