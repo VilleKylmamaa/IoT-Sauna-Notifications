@@ -17,7 +17,7 @@ of transmitting the temperature data in the sauna. On the receiving end there is
 application in which the user can set their desired temperature at which they wish to enter
 the sauna.
 
-**Here is a link to a short YouTube video showcasing the project's functionality:**
+**Here is a link to a short YouTube video showcasing the finished project's functionality:**
 
 https://www.youtube.com/watch?v=S2CG0rvZlv0
 
