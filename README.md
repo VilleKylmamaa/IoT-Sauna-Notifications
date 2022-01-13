@@ -56,9 +56,6 @@ temperature and to choose a temperature at which the application will send a pus
 notification. There is also a graph which visualizes the temperature data and the chosen
 notification temperature.
 
-Depicted below is the overall architecture and the chosen devices and technologies (figure
-1). Further justification of the choices in the implementation section.
-
 
 
 ## Implementation
