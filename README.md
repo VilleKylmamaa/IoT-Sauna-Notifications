@@ -19,7 +19,7 @@ the sauna.
 
 **Here is a link to a short YouTube video showcasing the finished project's functionality:**
 
-https://www.youtube.com/watch?v=S2CG0rvZlv0
+**https://www.youtube.com/watch?v=S2CG0rvZlv0**
 
 
 <br/>
